@@ -6,9 +6,9 @@
 x <- 3
 p <- 0.20
 dgeom(x-1, p, log = FALSE)
-# No 1 b
+No 1 b
 mean(rgeom(n = 10000,p)==3)
-# No 1 c
+No 1 c
 #point a =0.128 dan b = 0.1051
 ????
 
