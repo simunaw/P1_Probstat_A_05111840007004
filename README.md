@@ -25,7 +25,9 @@ hist(rgeom(n = 10000,p),
      xlim = c(0,20),
      col="green",
 )
+
 1 E
+
 mu=(1/0.128)
 mu
 
